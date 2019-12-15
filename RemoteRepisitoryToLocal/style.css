@@ -4,23 +4,27 @@ body {
     background-color: aquamarine;
 }
 
-#profile-container{
+#profile-container {
     max-width: 300px;
     background-color: aliceblue;
     border: 1px solid gray;
     border-radius: 6px;
 }
 
-#profile-image{
+#profile-image {
     width: 100%;
     height: auto;
 }
 
-#profile-name{
+#profile-name {
     text-align: center;
 }
 
+<<<<<<< HEAD
 #footer {
+=======
+#header {
+>>>>>>> 6c61ff0104b4017dd5fd63814c5c90ed3af9633f
     width: 100%;
     height: 50px;
     line-height: 50px;
